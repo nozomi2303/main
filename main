@@ -1,3 +1,2 @@
-git config --global init defaultbranch main
-git config --global user.name "nozomi2303"
-git config --global user.email ""
+
+sample sample
